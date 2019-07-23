@@ -656,3 +656,4 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Zakaria Ridouh https://zakariaridouh.github.io
 - Zakariyya Mughal http://enetdown.org/
 - Zeeshan Mughal http://www.zeeshanmughal.com
+- Zhenghao (Kevin) Zhu https://zhenghaozhu.me/
